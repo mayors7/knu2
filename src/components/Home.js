@@ -3,7 +3,7 @@ import { Button } from "react-bootstrap";
 
 const Home = () => {
   return (
-    <section className="w-full h-dvh bg-center bg-cover bg-[url('./bg.jpg')]">
+    <section className="w-full h-dvh bg-center bg-cover bg-fixed bg-[url('./bg.jpg')]">
       <div className="w-full h-full bg-teal-600/30 text-white">
         <div className="comtainer h-full mx-auto flex flex-col items-center justify-center">
           <div className="max-w-[600px] text-center">
